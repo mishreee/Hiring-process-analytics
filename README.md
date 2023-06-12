@@ -20,9 +20,12 @@ Steps for EDA:
 4. Checking for outliers
 5. Removing outliers
 6. Drawing Data Summary
+
+
 We will also use our knowledge in statistics and use different formulas in excel
 and draw necessary conclusions about the company The things that we are
 going to find out through this project are:
+
 1. Hiring: How many males and females are Hired ?
 2. Average Salary: What is the average salary offered in this company ?
 3. Class Intervals: Draw the class intervals for salary in the company ?
